@@ -20,4 +20,4 @@ for:	ble counter, kiyas, end
 		b for
 end:
 		put sonuc
-		
+#bozalp		
