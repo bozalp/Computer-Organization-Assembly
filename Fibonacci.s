@@ -22,3 +22,4 @@ dongu:    	bge    i, istek, yaz
 			b     dongu
 yaz:        put   nw
             done
+#bozalp	    
